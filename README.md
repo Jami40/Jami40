@@ -54,9 +54,9 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jami40&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages">
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jami40&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-</p>
+<a href="https://github.com/Jami40">
+    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jami40&theme=radical&hide_border=true" alt="Jami40's GitHub Streak Stats" />
+</a>
 
 
 ---
