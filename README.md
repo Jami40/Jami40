@@ -58,8 +58,9 @@
 
 
 <a href="https://github.com/Jami40">
-    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jami40&theme=radical&hide_border=true&card_width=320" alt="Jami40's GitHub Streak Stats" />
+    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jami40&theme=radical&hide_border=true&card_width=782" alt="Jami40's GitHub Streak Stats" />
 </a>
+
 
 
 
