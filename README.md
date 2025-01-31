@@ -49,8 +49,15 @@
 
 ## 📊 GitHub Stats:
 
-![Sumsed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jami40&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jami40&layout=compact&theme=radical)
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Jami40&show_icons=true&theme=radical&hide_border=true&hide=stars" alt="GitHub Stats">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jami40&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages">
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jami40&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+</p>
+
 
 ---
 
