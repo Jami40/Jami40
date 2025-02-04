@@ -2,6 +2,8 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jami40&label=Profile%20views&color=0e75b6&style=flat" alt="Jami40" /> </p>
+
 ## 🌟 Here's some fun facts about me:
 
 - 🔥 I am a Full Stack Developer (MERN) with a passion for building dynamic web applications.  
