@@ -20,8 +20,8 @@
 
 ## 🌐 Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
+[![Linkedin Badge](https://img.shields.io/badge/-Sumsed%20Tareq%20Jami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jn-jami-1455112a9/)](https://www.linkedin.com/in/jn-jami-1455112a9/)
+[![Instagram Badge](https://img.shields.io/badge/-nerd_wh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nerd_wh/)](https://www.instagram.com/nerd_wh/)
 [![Facebook Badge](https://img.shields.io/badge/-Jami-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jamicox.jami)](https://www.facebook.com/jamicox.jami)
 [![Twitter Badge](https://img.shields.io/badge/-JamiJn93343-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/JamiJn93343)](https://x.com/JamiJn93343)
 [![Gmail Badge](https://img.shields.io/badge/-jnjami40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnjami40@gmail.com)](mailto:jnjami40@gmail.com)
