@@ -22,8 +22,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Facebook Badge](https://img.shields.io/badge/-Jami-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jamicox.jami)](https://www.facebook.com/jamicox.jami)
+[![Twitter Badge](https://img.shields.io/badge/-JamiJn93343-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/JamiJn93343)](https://x.com/JamiJn93343)
 [![Gmail Badge](https://img.shields.io/badge/-jnjami40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnjami40@gmail.com)](mailto:jnjami40@gmail.com)
 
 
