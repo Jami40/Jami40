@@ -52,12 +52,15 @@
 
 ## 📊 GitHub Stats:
 
-<a href="https://github.com/Jami40">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jami40&theme=radical" />
-</a>
-<a href="https://github.com/Jami40">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jami40&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/Jami40">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Jami40&theme=radical" />
+  </a>
+  <a href="https://github.com/Jami40">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jami40&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  </a>
+</div>
+
 
 <a href="https://github.com/Jami40">
     <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Jami40&card_width=782&theme=radical" alt="Jami40" />
