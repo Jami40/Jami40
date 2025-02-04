@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/Jami40/Jami40/blob/d4a4e4d20eef901daf5666225974ce7a7c6035e7/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="Sumsed Tareq Jami Banner" width="100%" />
+</p>
+
+
+---
+
 # 👋 Hi there, I'm Sumsed Tareq Jami!
 
 ---
