@@ -19,8 +19,8 @@
 - 🚀 My next mission is to become a Senior Software Engineer.  
 - 🎮 I aspire to create impactful websites and applications.  
 - 🎓 I am also a student of Computer Science & Engineering.  
-- 📂 Check out my [Portfolio](#) (Coming Soon).  
-- 📜 Get details about me: [Resume](#) (Coming Soon).  
+- 📂 Check out my [Portfolio](https://jamis-portfolio.vercel.app/).  
+- 📜 Get details about me: [Resume](https://drive.google.com/file/d/1zbDILjnuI65STv6FfA6uQTXV5BG6qXTc/view?usp=sharing).  
 - ✉️ Keep in touch: [jnjami40@gmail.com](mailto:jnjami40@gmail.com).  
 
 ---
