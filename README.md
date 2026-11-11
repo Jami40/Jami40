@@ -69,19 +69,14 @@
 
 ## 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/Jami40">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Jami40&theme=radical" />
-  </a>
-  <a href="https://github.com/Jami40">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jami40&layout=compact&langs_count=8&card_width=320&theme=radical" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jami40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jami40&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+</p>
 
-
-<a href="https://github.com/Jami40">
-    <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Jami40&card_width=782&theme=radical" alt="Jami40" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jami40&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
+</p>
 
 
 
