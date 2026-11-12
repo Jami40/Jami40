@@ -96,31 +96,98 @@ ML foundations  ███████████████░░░░░  Py
 
 </details>
 
-## 💻 Skills and tools
+## 🧰 Skills and tools
 
-### Frontend
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<details open>
+<summary><strong>🎨 Frontend development</strong></summary>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20UI-4CAF50?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend, data, and AI
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Built in:** `Bistro-Boss` · `TaskManagementClient` · `EduResource-Client` · `GADGETHEAVEN_E_COMMERCE_WEBSITE` · `MOVIES_PORTAL_CLIENT` · `MICRO_TASK_EARNING_CLIENT`
+
+</details>
+
+<details open>
+<summary><strong>⚙️ Backend and APIs</strong></summary>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+**Built in:** `Bistro-Boss-Server` · `Smart_Task_Scheduler_Server` · `Schoolarship_System_Mangement_Server` · `MICRO_TASK_EARNING_SERVER` · `SERVICE_REVIEW_SYSTEM_SERVER` · `MOVIES_PORTAL_SERVER`
+
+</details>
+
+<details open>
+<summary><strong>🤖 AI, machine learning, and GenAI</strong></summary>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graphql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=bookstack&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Worked on:** LLM applications · prompt and chat completion workflows · text classification · text summarization · tokenization and fine-tuning · word embeddings · TF-IDF and N-grams · RNNs · self-attention · multimodal text-to-image and text-to-voice systems
+
+**Projects:** `LangChain_Orchastation` · `LangChain_Basic_To_Advanced` · `Agentic_AI_Ollama_Local` · `Open_AI_API_Demo_Chat_Completion` · `Text_Summerization_Project_GenAI` · `Hugging_Face_Tokenization_FineTuning` · `NLP_Text_Classification` · `Self_Attention_From_Scratch`
+
+</details>
+
+<details open>
+<summary><strong>🔍 Retrieval and vector databases</strong></summary>
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-6C5CE7?style=for-the-badge&logo=semanticweb&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-00A98F?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Worked on:** document loading · PDF and CSV context · embeddings · semantic retrieval · RAG pipelines · local vector stores · cloud vector databases
+
+**Project:** [`Vector_Database_With_OpenAI`](https://github.com/Jami40/Vector_Database_With_OpenAI)
+
+</details>
+
+<details open>
+<summary><strong>☁️ Cloud, authentication, and payments</strong></summary>
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Surge](https://img.shields.io/badge/Surge-000000?style=for-the-badge&logo=surge&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Worked on:** Firebase authentication and hosting · Stripe payment flows · AWS S3 data versioning · DVC experiment tracking · Git/GitHub workflows
+
+**Projects:** `MICRO_TASK_EARNING_CLIENT` · `MICRO_TASK_EARNING_SERVER` · `DENTIST_FIREBASE` · `MLOPS_END_TO_END_PIPELINE_DVC_AWS_ML`
+
+</details>
+
+<details>
+<summary><strong>📚 Core foundations</strong></summary>
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+Operating systems · WSL · data structures and programming fundamentals · statistics for machine learning · software project architecture
+
+</details>
 
 ## 📊 GitHub activity
 
