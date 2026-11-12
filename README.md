@@ -185,16 +185,16 @@ ML foundations  ███████████████░░░░░  Py
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jami40&theme=tokyonight" width="49%" alt="GitHub Statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jami40&theme=tokyonight" width="49%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jami40&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="Jami40's real GitHub statistics" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jami40&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" alt="Jami40's real programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jami40&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Jami40&theme=tokyonight&hide_border=true" width="100%" alt="Jami40's real GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jami40&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jami40&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&custom_title=Jami40%27s%20Real%20Contribution%20Graph" width="100%" alt="Jami40's real GitHub contribution graph" />
 </p>
 
 ## 🌐 Connect with me
