@@ -22,12 +22,37 @@
 <details open>
 <summary><strong>🧭 Explore my profile</strong></summary>
 
-- [About me](#-about-me)
-- [What I'm building](#-what-im-building)
-- [Featured projects](#-featured-projects)
-- [Skills and tools](#-skills-and-tools)
-- [GitHub activity](#-github-activity)
-- [Connect with me](#-connect-with-me)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="#-about-me"><img src="https://img.shields.io/badge/🧠%20About%20me-6C63FF?style=for-the-badge" alt="About me" /></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="#-what-im-building"><img src="https://img.shields.io/badge/🛠️%20What%20I'm%20building-FF6B6B?style=for-the-badge" alt="What I'm building" /></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀%20Featured%20projects-00B894?style=for-the-badge" alt="Featured projects" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#-skills-and-tools"><img src="https://img.shields.io/badge/🧰%20Skills%20and%20tools-A855F7?style=for-the-badge" alt="Skills and tools" /></a>
+    </td>
+    <td align="center">
+      <a href="#-github-activity"><img src="https://img.shields.io/badge/📊%20GitHub%20activity-2563EB?style=for-the-badge" alt="GitHub activity" /></a>
+    </td>
+    <td align="center">
+      <a href="#-connect-with-me"><img src="https://img.shields.io/badge/🌐%20Connect%20with%20me-F97316?style=for-the-badge" alt="Connect with me" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Jami40?tab=repositories"><img src="https://img.shields.io/badge/📂%20All%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
+  <a href="https://jamis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-0E75B6?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1zbDILjnuI65STv6FfA6uQTXV5BG6qXTc/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-111827?style=for-the-badge" alt="Resume" /></a>
+  <a href="mailto:jnjami40@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-c14438?style=for-the-badge" alt="Email" /></a>
+</p>
 
 </details>
 
