@@ -185,20 +185,16 @@ ML foundations  ███████████████░░░░░  Py
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jami40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jami40&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jami40&theme=tokyonight" width="49%" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jami40&theme=tokyonight" width="49%" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jami40&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Jami40&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jami40&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:EF4444&height=80&text=Connect%20with%20me&fontSize=30&fontColor=FFFFFF&font=Inter&animation=fadeIn" width="100%" alt="🌐 Connect with me" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jami40&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub Contribution Graph" />
 </p>
 
 ## 🌐 Connect with me
