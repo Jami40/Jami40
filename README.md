@@ -31,6 +31,10 @@
 
 </details>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C2FF&height=80&text=About%20me&fontSize=30&fontColor=FFFFFF&font=Inter&animation=fadeIn" width="100%" alt="🧠 About me" />
+</p>
+
 ## 🧠 About me
 
 - 🔥 Full Stack Developer focused on the **MERN stack** and practical AI applications.
@@ -48,6 +52,10 @@
 
 </details>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:FFD93D&height=80&text=What%20I%27m%20building&fontSize=30&fontColor=FFFFFF&font=Inter&animation=fadeIn" width="100%" alt="🛠️ What I'm building" />
+</p>
+
 ## 🛠️ What I'm building
 
 ```text
@@ -55,6 +63,10 @@ Web apps       ████████████████████  MER
 AI applications ██████████████████░░  LLMs, LangChain, NLP
 ML foundations  ███████████████░░░░░  Python, vector search, model training
 ```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B894,100:0984E3&height=80&text=Featured%20projects&fontSize=30&fontColor=FFFFFF&font=Inter&animation=fadeIn" width="100%" alt="🚀 Featured projects" />
+</p>
 
 ## 🚀 Featured projects
 
@@ -95,6 +107,10 @@ ML foundations  ███████████████░░░░░  Py
 - [MLOps End-to-End Pipeline](https://github.com/Jami40/MLOPS_END_TO_END_PIPELINE_DVC_AWS_ML)
 
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:EC4899&height=80&text=Skills%20and%20tools&fontSize=30&fontColor=FFFFFF&font=Inter&animation=fadeIn" width="100%" alt="🧰 Skills and tools" />
+</p>
 
 ## 🧰 Skills and tools
 
@@ -162,6 +178,10 @@ ML foundations  ███████████████░░░░░  Py
 
 </details>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:2563EB&height=80&text=GitHub%20activity&fontSize=30&fontColor=FFFFFF&font=Inter&animation=fadeIn" width="100%" alt="📊 GitHub activity" />
+</p>
+
 ## 📊 GitHub activity
 
 <p align="center">
@@ -175,6 +195,10 @@ ML foundations  ███████████████░░░░░  Py
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jami40&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:EF4444&height=80&text=Connect%20with%20me&fontSize=30&fontColor=FFFFFF&font=Inter&animation=fadeIn" width="100%" alt="🌐 Connect with me" />
 </p>
 
 ## 🌐 Connect with me
