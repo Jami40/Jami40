@@ -101,81 +101,64 @@ ML foundations  ███████████████░░░░░  Py
 <details open>
 <summary><strong>🎨 Frontend</strong></summary>
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" /></a>
-  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React" /></a>
-  <a href="https://reactrouter.com/" title="React Router"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React Router" /></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" /></a>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </details>
 
 <details open>
 <summary><strong>⚙️ Backend</strong></summary>
 
-<p align="left">
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" /></a>
-  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /></a>
-  <a href="https://socket.io/" title="Socket.IO"><img src="https://skillicons.dev/icons?i=socketio" height="48" alt="Socket.IO" /></a>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </details>
 
 <details open>
 <summary><strong>🤖 AI & Machine Learning</strong></summary>
 
-<p align="left">
-  <a href="https://openai.com/" title="OpenAI"><img src="https://skillicons.dev/icons?i=openai" height="48" alt="OpenAI" /></a>
-  <a href="https://www.langchain.com/" title="LangChain"><img src="https://skillicons.dev/icons?i=ai" height="48" alt="LangChain" /></a>
-  <a href="https://ollama.com/" title="Ollama"><img src="https://skillicons.dev/icons?i=ollama" height="48" alt="Ollama" /></a>
-  <a href="https://huggingface.co/" title="Hugging Face"><img src="https://skillicons.dev/icons?i=huggingface" height="48" alt="Hugging Face" /></a>
-  <a href="https://jupyter.org/" title="Jupyter"><img src="https://skillicons.dev/icons?i=jupyter" height="48" alt="Jupyter" /></a>
-  <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://skillicons.dev/icons?i=pandas" height="48" alt="Pandas" /></a>
-  <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" /></a>
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graphql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=bookstack&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </details>
 
 <details open>
-<summary><strong>🔍 Vector databases & GenAI</strong></summary>
+<summary><strong>🔍 Vector Databases</strong></summary>
 
-<p align="left">
-  <a href="https://www.trychroma.com/" title="ChromaDB"><img src="https://skillicons.dev/icons?i=chromadb" height="48" alt="ChromaDB" /></a>
-  <a href="https://github.com/facebookresearch/faiss" title="FAISS"><img src="https://skillicons.dev/icons?i=faiss" height="48" alt="FAISS" /></a>
-  <a href="https://www.pinecone.io/" title="Pinecone"><img src="https://skillicons.dev/icons?i=pinecone" height="48" alt="Pinecone" /></a>
-  <a href="https://www.langchain.com/" title="RAG and embeddings"><img src="https://skillicons.dev/icons?i=ai" height="48" alt="RAG and embeddings" /></a>
-</p>
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge&logo=semanticweb&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-00A98F?style=for-the-badge&logo=databricks&logoColor=white)
 
 </details>
 
 <details open>
-<summary><strong>☁️ Cloud, payments & developer tools</strong></summary>
+<summary><strong>☁️ Cloud & Tools</strong></summary>
 
-<p align="left">
-  <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" /></a>
-  <a href="https://stripe.com/" title="Stripe"><img src="https://skillicons.dev/icons?i=stripe" height="48" alt="Stripe" /></a>
-  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" /></a>
-  <a href="https://dvc.org/" title="DVC"><img src="https://skillicons.dev/icons?i=dvc" height="48" alt="DVC" /></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
-  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" /></a>
-  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" /></a>
-</p>
-
-</details>
-
-<details>
-<summary><strong>🧱 Core programming</strong></summary>
-
-<p align="left">
-  <a href="https://en.cppreference.com/w/c" title="C"><img src="https://skillicons.dev/icons?i=c" height="48" alt="C" /></a>
-  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" /></a>
-  <a href="https://www.gnu.org/software/bash/" title="Shell scripting"><img src="https://skillicons.dev/icons?i=bash" height="48" alt="Shell" /></a>
-</p>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </details>
 
