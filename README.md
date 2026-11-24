@@ -10,9 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://jamis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-0e75b6?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://drive.google.com/file/d/1zbDILjnuI65STv6FfA6uQTXV5BG6qXTc/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20resume-111827?style=for-the-badge" alt="Resume" /></a>
-  <a href="mailto:jnjami40@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-c14438?style=for-the-badge" alt="Email" /></a>
+  <a href="https://jamis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1zbDILjnuI65STv6FfA6uQTXV5BG6qXTc/view"><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=readdotcv&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jn-jami-1455112a9/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jnjami40@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/JamiJn93343"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 <p align="center">
