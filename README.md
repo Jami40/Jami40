@@ -212,8 +212,12 @@ ML foundations  ███████████████░░░░░  Py
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jami40&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="Jami40's real GitHub statistics" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jami40&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" alt="Jami40's real programming languages" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jami40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jami40&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+</p>
+  <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jami40&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="Jami40's real GitHub statistics" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jami40&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" alt="Jami40's real programming languages" /> -->
 </p>
 
 <p align="center">
